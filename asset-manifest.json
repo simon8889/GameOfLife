@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GameOfLife/static/css/main.c0086ee2.css",
+    "main.js": "/GameOfLife/static/js/main.17f781dd.js",
+    "static/js/787.7ebe7c37.chunk.js": "/GameOfLife/static/js/787.7ebe7c37.chunk.js",
+    "index.html": "/GameOfLife/index.html",
+    "main.c0086ee2.css.map": "/GameOfLife/static/css/main.c0086ee2.css.map",
+    "main.17f781dd.js.map": "/GameOfLife/static/js/main.17f781dd.js.map",
+    "787.7ebe7c37.chunk.js.map": "/GameOfLife/static/js/787.7ebe7c37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0086ee2.css",
+    "static/js/main.17f781dd.js"
+  ]
+}
